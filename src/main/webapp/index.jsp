@@ -112,7 +112,7 @@
         <li><a href="#about">About</a></li>
       </ul>
       <br><br>
-      <p>"Do something important in life. I convert green grass to code."<br>- Mr Camel</p>
+      <p>"Do something important in life. I convert green grass to code."<br>- Srusti D R</p>
     </aside>
     <main class="content">
       <h2>About Me</h2>
@@ -146,7 +146,7 @@
         <input type="submit" value="Submit" /><br>
       </form>
     </main>
-    <footer class="footer">&copy; Copyright Mr. Camel</footer>
+    <footer class="footer">&copy; Copyright Srusti D R</footer>
   </div>
 </body>
 
